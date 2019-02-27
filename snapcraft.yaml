@@ -1,1 +1,5 @@
-
+name: awx-wsl
+version: 0.1
+summary: Ansible AWX for Windows Subsytem for Linux (w/o docker)
+description: |
+  Ansible AWX package for Windows Subsytem for Linux (w/o docker).
